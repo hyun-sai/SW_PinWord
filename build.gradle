@@ -12,7 +12,7 @@ version = '0.0.1-SNAPSHOT' // 현재 프로젝트의 버전 (SNAPSHOT은 아직 
 java {
 	// [자바 버전 설정]
 	toolchain {
-		languageVersion = JavaLanguageVersion.of(25) // 이 프로젝트는 Java 21 버전을 기준으로 실행되도록 강제합니다.
+		languageVersion = JavaLanguageVersion.of(21) // 이 프로젝트는 Java 21 버전을 기준으로 실행되도록 강제합니다.
 	}
 }
 
