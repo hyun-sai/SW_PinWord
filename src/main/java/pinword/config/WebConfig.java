@@ -18,7 +18,10 @@ public class WebConfig implements WebMvcConfigurer {
     @Override
     public void addCorsMappings(CorsRegistry registry) {
         registry.addMapping("/**") // 백엔드의 모든 API 주소에 대하여
-                .allowedOrigins("http://localhost:5173") // 리액트 주소의 접근을 허락함
+                .allowedOrigins(
+                    "http://localhost:5173",           // 로컬 개발
+                    "https://pinword.netlify.app"      // 배포된 프론트엔드
+                )
                 .allowedMethods("GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS") // 허용할 행동들
                 .allowedHeaders("*")
                 .allowCredentials(true);
