@@ -22,7 +22,7 @@
 ## 🛠️ 기술 스택
 
 ### Backend
-- **Java 25** + **Spring Boot 4.0.6**
+- **Java 21** + **Spring Boot 4.0.6**
 - **Spring Security** + **JWT** (JJWT)
 - **Spring Data JPA** + **Hibernate**
 - **MySQL** (로컬 / Aiven Cloud)
@@ -66,13 +66,13 @@ SW_PinWord/
 ## ⚙️ 로컬 개발 환경 설정
 
 ### 사전 요구사항
-- Java 25+
+- Java 21+
 - Node.js 18+
 - MySQL 8.0+
 
 ### 1. 저장소 클론
 ```bash
-git clone https://github.com/obiwankwon/SW_PinWord.git
+git clone https://github.com/hyun-sai/SW_PinWord.git
 cd SW_PinWord
 git checkout develop
 ```
