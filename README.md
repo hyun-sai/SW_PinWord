@@ -181,7 +181,7 @@ main        ← 최종 릴리즈
         <a href="https://github.com/hyun-sai">
           <img src="https://avatars.githubusercontent.com/u/192984875" width="80" style="border-radius:50%"/><br/>
           <b>최현성</b><br/>
-          <sub>🛠️ 백엔드 / 배포</sub><br/>
+          <sub>👑 팀장</sub><br/>
           <sub>@hyun-sai</sub>
         </a>
       </td>
@@ -189,7 +189,7 @@ main        ← 최종 릴리즈
         <a href="https://github.com/seoyeon116">
           <img src="https://avatars.githubusercontent.com/u/180318614" width="80" style="border-radius:50%"/><br/>
           <b>강서연</b><br/>
-          <sub>🎨 프론트엔드</sub><br/>
+          <sub>🙋 팀원</sub><br/>
           <sub>@seoyeon116</sub>
         </a>
       </td>
@@ -197,7 +197,7 @@ main        ← 최종 릴리즈
         <a href="https://github.com/LeeDongSeong">
           <img src="https://avatars.githubusercontent.com/u/149984284" width="80" style="border-radius:50%"/><br/>
           <b>이동성</b><br/>
-          <sub>🎨 프론트엔드</sub><br/>
+          <sub>🙋 팀원</sub><br/>
           <sub>@LeeDongSeong</sub>
         </a>
       </td>
@@ -205,7 +205,7 @@ main        ← 최종 릴리즈
         <a href="https://github.com/obiwankwon">
           <img src="https://avatars.githubusercontent.com/u/113491213" width="80" style="border-radius:50%"/><br/>
           <b>권용준</b><br/>
-          <sub>🛠️ 백엔드</sub><br/>
+          <sub>🙋 팀원</sub><br/>
           <sub>@obiwankwon</sub>
         </a>
       </td>
