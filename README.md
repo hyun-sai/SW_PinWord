@@ -174,9 +174,41 @@ main        ← 최종 릴리즈
 
 상명대학교 컴퓨터과학과 SW 프로젝트
 
-| 이름 | 역할 |
-|------|------|
-| 최현성 | 백엔드 / 배포 |
-| 강서연 | 프론트엔드 |
-| 이동성 | 백엔드 |
-| 권용준 | 프론트엔드 |
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/hyun-sai">
+          <img src="https://avatars.githubusercontent.com/u/192984875" width="80" style="border-radius:50%"/><br/>
+          <b>최현성</b><br/>
+          <sub>🛠️ 백엔드 / 배포</sub><br/>
+          <sub>@hyun-sai</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/seoyeon116">
+          <img src="https://avatars.githubusercontent.com/u/180318614" width="80" style="border-radius:50%"/><br/>
+          <b>강서연</b><br/>
+          <sub>🎨 프론트엔드</sub><br/>
+          <sub>@seoyeon116</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/LeeDongSeong">
+          <img src="https://avatars.githubusercontent.com/u/149984284" width="80" style="border-radius:50%"/><br/>
+          <b>이동성</b><br/>
+          <sub>🛠️ 백엔드</sub><br/>
+          <sub>@LeeDongSeong</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/obiwankwon">
+          <img src="https://avatars.githubusercontent.com/u/113491213" width="80" style="border-radius:50%"/><br/>
+          <b>권용준</b><br/>
+          <sub>🎨 프론트엔드</sub><br/>
+          <sub>@obiwankwon</sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
